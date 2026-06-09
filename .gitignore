@@ -1,0 +1,8 @@
+*.o
+*.a
+*.so
+graphics_editor
+.DS_Store
+*.swp
+*.swo
+*~
